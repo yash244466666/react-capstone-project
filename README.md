@@ -81,7 +81,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://velvety-mermaid-829562.netlify.app/)
+- [Live Demo Link](https://gleeful-bienenstitch-063a30.netlify.app/)
 
 ## 🚀 Video <a name="live-demo"></a>
 
