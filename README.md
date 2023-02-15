@@ -179,7 +179,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and all my colleagues who have helped me making this project.
+I would like to thank Microverse and all my colleagues who have helped me making this project. I give credit to Nelson Sakwa the author of the original design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
