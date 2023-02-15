@@ -51,7 +51,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 React Capstone Project <a name="about-project"></a>
 
-**React Capstone Project** is a tool that helps to organize books. It's build using React.
+**React Capstone Project** is a web application that fetches real live data from REST COUNTRIES API and provides information about countries.The application will display a list of countries and will show the name and the Numeric Code of the country and also will allow users to select a country and get information about the specific country.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -64,6 +64,7 @@ After you're finished please remove all the comments and instructions!
     <li><a href="">CSS</a></li>
     <li><a href="">JavaScript</a></li>
     <li><a href="">React</a></li>
+    <li><a href="">Redux</a></li>
   </ul>
 </details>
 
@@ -71,7 +72,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **Uses React**
+- **Uses React-Redux**
 - **Based on latest ES6 syntax**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -80,22 +81,26 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<!-- - [Live Demo Link](https://stupendous-kitten-c6066f.netlify.app) -->
+- [Live Demo Link](https://gleeful-bienenstitch-063a30.netlify.app/)
+
+## 🚀 Video <a name="live-demo"></a>
+
+- [Video](https://drive.google.com/file/d/1W-Z96X5eykoy797-pm40wGGeEeajLF00/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-<!-- ## 💻 Getting Started with Math Magicians <a name="getting-started"></a>
+## 💻 Getting Started with Math Magicians <a name="getting-started"></a>
 
 ### Setup
 
-Clone this [repository](https://github.com/yash244466666/book-store.git) to your desired folder:
+Clone this [repository](https://github.com/yash244466666/react-capstone-project.git) to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:yash244466666/book-store.git
-  cd book-store
+  git clone git@github.com:yash244466666/react-capstone-project.git
+  cd react-capstone-project
 ```
 
 ### Install
@@ -120,7 +125,7 @@ To run tests, run the following command:
 
 ```sh
   npm test
-``` -->
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +147,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/yash244466666/book-store/issues).
+Feel free to check the [issues page](https://github.com/yash244466666/react-capstone-project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,14 +179,16 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and all my colleagues who have helped me making this project.
+I would like to thank Microverse and all my colleagues who have helped me making this project. I give credit to Nelson Sakwa the author of the original design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-<!-- ## 📝 License <a name="license"></a>
+## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Wahaj-Ali/To-do-list/blob/main/LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
