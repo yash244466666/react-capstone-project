@@ -119,3 +119,53 @@ body {
 .details-text a:hover {
   color: rgb(247, 156, 0);
 }
+
+/* media queries */
+
+@media (max-width: 400px) {
+  .country-container {
+    width: 15em;
+    height: 15em;
+  }
+
+  .country-container img {
+    width: 10em;
+    height: 7em;
+  }
+
+  .search-box input {
+    width: 15em;
+  }
+
+  .top-data {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .top-data img {
+    width: 15em;
+  }
+
+  .top-data h2 {
+    width: 10em;
+    font-weight: 400;
+    font-size: 1.5rem;
+  }
+
+  .details-text {
+    margin: 0 0 0 5rem;
+  }
+
+  .sub-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 0 1rem;
+  }
+
+  button {
+    margin: 0 1rem ;
+    padding: 0.5rem;
+    font-size: 0.7rem;
+  }
+}

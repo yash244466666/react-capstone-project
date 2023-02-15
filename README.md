@@ -183,7 +183,7 @@ I would like to thank Microverse and all my colleagues who have helped me making
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-LICENSE
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 

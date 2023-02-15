@@ -38,3 +38,26 @@ small {
   color: white;
   cursor: pointer;
 }
+
+/* media queries */
+
+@media (max-width: 400px) {
+  header {
+    padding: 20px 20px;
+  }
+
+  header h2 {
+    font-size: 1.1rem;
+    margin: 0 auto 0 auto;
+  }
+
+  header small {
+    font-size: 10px;
+  }
+
+  .nav-icons {
+    display: flex;
+    gap: 15px;
+    padding: 0 0 0 0;
+  }
+}
