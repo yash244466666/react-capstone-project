@@ -28,6 +28,7 @@ After you're finished please remove all the comments and instructions!
   <br/>
 
   <h1><b>React Capstone Project</b></h1>
+  <h2><b>World Countries</b></h2>
 
 </div>
 
