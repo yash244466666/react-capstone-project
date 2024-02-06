@@ -110,6 +110,8 @@ Install this project with:
 
 ```sh
   npm install
+or
+npm i
 ```
 
 ### Start
